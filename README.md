@@ -86,6 +86,6 @@ Here’s a quick look at the **Home Page** of the dashboard:
 
 
 ## **📬 Connect With Me**
-💼 [LinkedIn](www.linkedin.com/in/sonawane-pranay)  
+💼 [LinkedIn](https://www.linkedin.com/in/sonawane-pranay/)  
 🌐 [GitHub](https://github.com/PranaySonawane-dataanalyst)
 
